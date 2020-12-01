@@ -1,30 +1,50 @@
 [
-{
-"month":10,
-"sales":20
-},
-{
-"month":02,
-"sales":30
-},
-{
-"month":30,
-"sales":20
-},
-{
-"month":40,
-"sales":40
-},
-{
-"month":50,
-"sales":70
-},
-{
-"month":60,
-"sales":40
-},
-{
-"month":70,
-"sales":70
-}
+  {
+    "month":2,
+    "sales":20
+  },
+  {
+    "month":3,
+    "sales":30
+  },
+  {
+    "month":4,
+    "sales":40
+  },
+  {
+    "month":5,
+    "sales":20
+  },
+  {
+    "month":6,
+    "sales":30
+  },
+  {
+    "month":20130601,
+    "sales":40
+  },
+  {
+    "month":7,
+    "sales":20
+  },
+  {
+    "month":8,
+    "sales":78
+  },
+  {
+    "month":9,
+    "sales":30
+  },
+  {
+    "month":10,
+    "sales":40
+  },
+  {
+    "month":11,
+    "sales":70
+  },
+  {
+    "month":12,
+    "sales":80
+  }
 ]
