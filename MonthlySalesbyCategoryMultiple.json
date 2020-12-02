@@ -5,51 +5,51 @@
     "monthlySales":
 
       [{
-        "month":20130101,
+        "month":1,
         "sales":38
       },
       {
-        "month":20130201,
+        "month":2,
         "sales":35
       },
       {
-        "month":20130301,
+        "month":3,
         "sales":41
       },
       {
-        "month":20130401,
+        "month":4,
         "sales":55
       },
       {
-        "month":20130501,
+        "month":5,
         "sales":58
       },
       {
-        "month":20130601,
+        "month":6,
         "sales":66
       },
       {
-        "month":20130701,
+        "month":7,
         "sales":74
       },
       {
-        "month":20130801,
+        "month":8,
         "sales":78
       },
       {
-        "month":20130901,
+        "month":9,
         "sales":38
       },
       {
-        "month":20131001,
+        "month":10,
         "sales":30
       },
       {
-        "month":20131101,
+        "month":11,
         "sales":26
       },
       {
-        "month":20131201,
+        "month":12,
         "sales":29
       }
     ]
@@ -60,51 +60,51 @@
     "monthlySales":
 
       [{
-        "month":20130101,
+        "month":1,
         "sales":54
       },
       {
-        "month":20130201,
+        "month":2,
         "sales":66
       },
       {
-        "month":20130301,
+        "month":3,
         "sales":77
       },
       {
-        "month":20130401,
+        "month":4,
         "sales":70
       },
       {
-        "month":20130501,
+        "month":5,
         "sales":60
       },
       {
-        "month":20130601,
+        "month":6,
         "sales":63
       },
       {
-        "month":20130701,
+        "month":7,
         "sales":55
       },
       {
-        "month":20130801,
+        "month":8,
         "sales":47
       },
       {
-        "month":20130901,
+        "month":9,
         "sales":55
       },
       {
-        "month":20131001,
+        "month":10,
         "sales":30
       },
       {
-        "month":20131101,
+        "month":11,
         "sales":22
       },
       {
-        "month":20131201,
+        "month":12,
         "sales":77
       }
     ]
